@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cards on Global Women in Data Science Conference</title>
+    <link>/cards/</link>
+    <description>Recent content in Cards on Global Women in Data Science Conference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="/cards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Women in Data Science</title>
+      <link>/cards/1_wids/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/cards/1_wids/</guid>
+      <description>The Women in Data Science (WiDS) initiative aims to inspire and educate data scientists worldwide, regardless of gender, and support women in the field.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cards/2_dsi/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/cards/2_dsi/</guid>
+      <description>Sponsored by the Data Science Initative at Chico State</description>
+    </item>
+    
+    <item>
+      <title>Global conference</title>
+      <link>/cards/3_global_conference/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      
+      <guid>/cards/3_global_conference/</guid>
+      <description>WiDS Conference is held at Stanford University &amp;amp; 150+ regional events hosted by WiDS Ambassadors, and available via livestream. The 2019 program will feature fantastic speakers on a broad array of topics ranging from data ethics and privacy to cybersecurity to data visualization, and more.</description>
+    </item>
+    
+    <item>
+      <title>Inspiring all girls to be strong, smart, and bold</title>
+      <link>/cards/4_girls_inc/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      
+      <guid>/cards/4_girls_inc/</guid>
+      <description>Girls Inc. of the Northern Sacramento Valley, founded in 2006, is an affiliate of Girls Incorporated, which serves girls across the United States and Canada. With roots dating back to 1864, Girls Incorporated is the oldest girl-focused organization in the United States.
+Girls Inc. of the Northern Sacramento Valley is all about empowering local girls. We serve Shasta and Tehama county girls, ages 6 to 18, by offering a wide range of in-school, after-school and extracurricular programs.</description>
+    </item>
+    
+    <item>
+      <title>Live streaming from Chico State Campus</title>
+      <link>/cards/5_location/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/cards/5_location/</guid>
+      <description>Sylvesters Cafe, Room 100.
+ </description>
+    </item>
+    
+    <item>
+      <title>Lunchtime career panel</title>
+      <link>/cards/6_panel/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/cards/6_panel/</guid>
+      <description>info about lunchtime panel here. need picture from regional event last year</description>
+    </item>
+    
+    <item>
+      <title>Attendance FAQ</title>
+      <link>/cards/8_faq/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/cards/8_faq/</guid>
+      <description>Are men allowed to participate in WiDS? YES. Men are not only allowed, but encouraged, to attend any WiDS events worldwide. In addition, several of our WiDS ambassadors are men. WiDS is WiDS because we feature outstanding women doing outstanding work.
+Do I have to register for the whole day? No. You are welcome to come in and out as your schedule allows. Check the schedule for times and speaker bios</description>
+    </item>
+    
+    <item>
+      <title>Present your work</title>
+      <link>/cards/7_present/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>/cards/7_present/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
