@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Global Women in Data Science Conference</title>
-    <link>/</link>
-    <description>Recent content on Global Women in Data Science Conference</description>
+    <title>Events on Global Women in Data Science Conference</title>
+    <link>/event/</link>
+    <description>Recent content in Events on Global Women in Data Science Conference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -100,17 +100,6 @@ Chico State Campus
 * Denotes a local event only.
 .tg {border-collapse:collapse;border-spacing:0} .tg td{font-size:14px;padding:11px 8px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#ccc;color:#333;} .tg .tg-time{width:120px;border-color:inherit;text-align:left;vertical-align:top} .tg .tg-item{width:250px;border-color:inherit;text-align:left;vertical-align:top} .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
   8:30 - 9:00 Registration and Networking    9:00 - 9:15 WiDS Welcome  WiDS Co-Directors: Margot Gerritsen, Karen Matthys, and Judy Logan, Stanford University   9:15 - 9:30 Opening Address Jennifer Widom, Dean, Stanford School of Engineering</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>

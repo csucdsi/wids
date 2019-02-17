@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/cards/1_wids/</loc>
+    <loc>/event/1_wids/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/cards/2_dsi/</loc>
+    <loc>/event/9_dsi/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/cards/3_global_conference/</loc>
+    <loc>/event/3_global_conference/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/cards/4_girls_inc/</loc>
+    <loc>/event/4_girls_inc/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/cards/5_location/</loc>
+    <loc>/event/5_location/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/cards/6_panel/</loc>
+    <loc>/event/6_panel/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/cards/8_faq/</loc>
+    <loc>/event/8_faq/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/cards/7_present/</loc>
+    <loc>/event/7_present/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
@@ -53,18 +53,23 @@
   </url>
   
   <url>
+    <loc>/event/2_schedule/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/cards/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/event/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   

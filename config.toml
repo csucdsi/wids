@@ -6,6 +6,7 @@ languageCode = "en-us"
 # disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -20,26 +21,25 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "About"
-  url = "cards/"
+  url = "event/"
   home = true
 
   [[params.navlinks]]
   name = "Schedule"
-  url = "schedule/"
+  url = "event/2_schedule"
 
   [[params.navlinks]]
   name = "Register"
-  url = "cards/"  
+  url = "register.html"  
 
   [[params.navlinks]]
   name = "Career panel"
-  url = "cards/6_panel"  
+  url = "event/6_panel"  
   
   [[params.navlinks]]
   name = "WiDS Conference Website"
   url = "https://www.widsconference.org/"  
   
-
 
   [params.social]
   email = "datascience@csuchico.edu"
