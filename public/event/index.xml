@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/event/9_dsi/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/event/9_dsi/</guid>
-      <description>Sponsored by the Data Science Initative at Chico State</description>
-    </item>
-    
-    <item>
       <title>Global conference</title>
       <link>/event/3_global_conference/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
@@ -100,6 +91,15 @@ Chico State Campus
 * Denotes a local event only.
 .tg {border-collapse:collapse;border-spacing:0} .tg td{font-size:14px;padding:11px 8px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#ccc;color:#333;} .tg .tg-time{width:120px;border-color:inherit;text-align:left;vertical-align:top} .tg .tg-item{width:250px;border-color:inherit;text-align:left;vertical-align:top} .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
   8:30 - 9:00 Registration and Networking    9:00 - 9:15 WiDS Welcome  WiDS Co-Directors: Margot Gerritsen, Karen Matthys, and Judy Logan, Stanford University   9:15 - 9:30 Opening Address Jennifer Widom, Dean, Stanford School of Engineering</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/event/9_dsi/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/event/9_dsi/</guid>
+      <description>Sponsored by the Data Science Initative at Chico State</description>
     </item>
     
   </channel>

@@ -4,7 +4,7 @@ title = ""
 draft = false
 image = "img/DSI_Logo_Stacked_Large.jpg"
 showonlyimage = false
-weight = 2
+weight = 9
 +++
 
 Sponsored by the Data Science Initative at Chico State
