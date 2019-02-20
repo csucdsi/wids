@@ -3,8 +3,10 @@ showonlyimage = true
 image = "img/schedule.png"
 date = "2016-11-05T21:05:33+05:30"
 title = "Schedule"
-weight = 8
+weight = 2
 +++
+
+Sehedule of local and Live Streaming events. 
 
 **WiDS Chico State, March 4, 2019**  
 **Sylvesters Cafe 100**  

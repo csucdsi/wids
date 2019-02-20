@@ -7,6 +7,5 @@ title = "Lunchtime career panel"
 weight = 6
 +++
 
-info about lunchtime panel here. 
-need picture from regional event last year
+Meet and hear from local women in Data Science and Technology. 
 

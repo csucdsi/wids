@@ -21,6 +21,23 @@
     </item>
     
     <item>
+      <title>Schedule</title>
+      <link>/event/2_schedule/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>/event/2_schedule/</guid>
+      <description>Sehedule of local and Live Streaming events.
+WiDS Chico State, March 4, 2019
+Sylvesters Cafe 100
+Chico State Campus
+400 West First Street, Chico, CA 95929
+
+* Denotes a local event only.
+.tg {border-collapse:collapse;border-spacing:0} .tg td{font-size:14px;padding:11px 8px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#ccc;color:#333;} .tg .tg-time{width:120px;border-color:inherit;text-align:left;vertical-align:top} .tg .tg-item{width:250px;border-color:inherit;text-align:left;vertical-align:top} .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+  8:30 - 9:00 Registration and Networking    9:00 - 9:15 WiDS Welcome  WiDS Co-Directors: Margot Gerritsen, Karen Matthys, and Judy Logan, Stanford University   9:15 - 9:30 Opening Address Jennifer Widom, Dean, Stanford School of Engineering</description>
+    </item>
+    
+    <item>
       <title>Global conference</title>
       <link>/event/3_global_conference/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
@@ -55,7 +72,7 @@ Girls Inc. of the Northern Sacramento Valley is all about empowering local girls
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/event/6_panel/</guid>
-      <description>info about lunchtime panel here. need picture from regional event last year</description>
+      <description>Meet and hear from local women in Data Science and Technology.</description>
     </item>
     
     <item>
@@ -69,28 +86,12 @@ Do I have to register for the whole day? No. You are welcome to come in and out 
     </item>
     
     <item>
-      <title>Present your work</title>
+      <title>Care to Share?</title>
       <link>/event/7_present/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>/event/7_present/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Schedule</title>
-      <link>/event/2_schedule/</link>
-      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
-      <guid>/event/2_schedule/</guid>
-      <description>WiDS Chico State, March 4, 2019
-Sylvesters Cafe 100
-Chico State Campus
-400 West First Street, Chico, CA 95929
-
-* Denotes a local event only.
-.tg {border-collapse:collapse;border-spacing:0} .tg td{font-size:14px;padding:11px 8px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#ccc;color:#333;} .tg .tg-time{width:120px;border-color:inherit;text-align:left;vertical-align:top} .tg .tg-item{width:250px;border-color:inherit;text-align:left;vertical-align:top} .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-  8:30 - 9:00 Registration and Networking    9:00 - 9:15 WiDS Welcome  WiDS Co-Directors: Margot Gerritsen, Karen Matthys, and Judy Logan, Stanford University   9:15 - 9:30 Opening Address Jennifer Widom, Dean, Stanford School of Engineering</description>
+      <description>We want to hear from you. What are you working on? What challenges have you faced? What lessons have you learned or advice would you like to give? Anyone identifying as a woman is invited to share their journey, path, research, current job highlights, and recruitment opportunities.</description>
     </item>
     
     <item>
@@ -100,6 +101,15 @@ Chico State Campus
       
       <guid>/event/9_dsi/</guid>
       <description>Sponsored by the Data Science Initative at Chico State</description>
+    </item>
+    
+    <item>
+      <title>Register</title>
+      <link>/event/10_register/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>/event/10_register/</guid>
+      <description>Register for the event here. </description>
     </item>
     
   </channel>
