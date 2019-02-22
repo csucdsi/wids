@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/wids-logo.jpg"
+image = "img/wids-logo.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Women in Data Science"
 weight = 1
