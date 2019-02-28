@@ -33,9 +33,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   url = "https://goo.gl/forms/oR3u2z9OMdRKj7uo2"  
 
 
-#  [[params.navlinks]]
-#  name = "Career panel"
-#  url = "event/6_panel"  
+  [[params.navlinks]]
+  name = "Career panel"
+  url = "event/6_panel"  
 
   [[params.navlinks]]
   name = "WiDS Conference Website"

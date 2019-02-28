@@ -9,14 +9,19 @@ weight = 6
 
 Meet and hear from local women in Data Science and Technology. 
 
-
-# Charlette Diagneault
-
-
-# Gloria Kimbwala 
+12:30 - 1:30 pm
 
 
-<img src="../img/2019panel/Kimbwala.jpg" alt="Gloria Kimbwala " class="center">
+# 2019 Panelists
+
+## Charlette Diagneault
+Bio forthcoming
+
+## Gloria Kimbwala 
+
+<p align="center">
+  <img src="../img/Kimbwala.jpg">
+</p>
 
 
 Gloria Kimbwala is CEO and founder of Shule, a startup that tokenizes international experiential
@@ -35,9 +40,12 @@ find her coding with her sons.
 
 
 
-# Melody Stapleton, PhD
+## Melody Stapleton, PhD
 
-<img src="../img/2019panel/stapleton.jpg" alt="Melody Stapleton" class="center">
+<p align="center">
+  <img src="../img/2019panel/stapleton.jpg">
+</p>
+
 
 Dean, College of Engineering, Computer Science, and Construction Management
 
@@ -53,9 +61,10 @@ She is passionate about facilitating the growth of junior faculty and building i
 
 
 
-# Wendy Porter
-
-<img src="../img/2019panel/Porter.jpg" alt="Wendy Porter" class="center">
+## Wendy Porter
+<p align="center">
+  <img src="../img/2019panel/Porter.jpg">
+</p>
 
 
 Wendy is the Managing Director of Chicostart and facilitator of growTECH our Northern CA tech industry partnership. She is also the CA Community Colleges Information Communications Technology Deputy Sector Navigator for the Far North CA region. Chicostart is a startup incubator located in Chico, CA. Chicostart has launched 14 startups in the past 4 years and created over 105 quality jobs while nurturing a cohesive platform of connectivity for tech businesses, Chico State, Butte College, investors, mentors, workforce, and economic development groups to interact and uplift the problem solvers and difference makers of tomorrow. Fostering the tech startup entrepreneurial ecosystem in Chico and Northern CA is a passion for Wendy and seeing the positive results is invigorating. 
@@ -66,7 +75,7 @@ Wendy moved back to Chico to raise a family and become an executive contributor 
 
 ----
 
-## 2018 Event
+## 2018 panel
 Watch a recording of the panel from 2018: 
 
 https://www.youtube.com/watch?time_continue=1&v=mTpJnDAAaew 
