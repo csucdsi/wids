@@ -17,10 +17,10 @@ Meet and hear from local women in Data Science and Technology.
 ## Charlette Diagneault
 Bio forthcoming
 
-## Gloria Kimbwala 
+## Gloria Kimbwala, MS
 
 <p align="center">
-  <img src="../img/Kimbwala.jpg">
+  <img src="../../img/2019panel/Kimbwala.jpg" style="width: 30%; height: 30%">
 </p>
 
 
@@ -31,19 +31,17 @@ programs, and support they need to enter the technology industry. This includes 
 programs such as Square’s Code Camps, an immersion program that support college women
 pursuing careers in technology. She is passionate about making the blockchain ecosystem an
 inclusive and diverse space for all, including diversity of age, sexual orientation, ability, race,
-gender, and life experiences. Her hope is that all people will be encouraged to BUIDL solutions
+gender, and life experiences. Her hope is that all people will be encouraged to BUILD solutions
 that benefit their communities. She was recently named one of the Top Ten Women in Fintech
 by Fintech Ranking. Her non-traditional path into technology includes a bachelor's degree in
 Environmental Studies and a Master's degree in Computer Science. In her spare time, you can
 find her coding with her sons.
 
 
-
-
 ## Melody Stapleton, PhD
 
 <p align="center">
-  <img src="../img/2019panel/stapleton.jpg">
+  <img src="../../img/2019panel/stapleton.jpg">
 </p>
 
 
@@ -58,12 +56,10 @@ She joined the faculty at Chico State in 1981 after receiving her PhD in Mathema
 She is passionate about facilitating the growth of junior faculty and building interdisciplinary partnerships between departments, colleges, and industry. 
 
 
-
-
-
 ## Wendy Porter
+
 <p align="center">
-  <img src="../img/2019panel/Porter.jpg">
+  <img src="../../img/2019panel/Porter.jpeg">
 </p>
 
 
