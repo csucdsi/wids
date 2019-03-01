@@ -15,7 +15,13 @@ Meet and hear from local women in Data Science and Technology.
 # 2019 Panelists
 
 ## Charlette Diagneault
-Bio forthcoming
+
+<p align="center">
+  <img src="../../img/2019panel/diagneault.jpg" style="width: 30%; height: 30%">
+</p>
+
+Charlette Daigneault serves as the director of program expansion for the BlueTechValley hub in Chico, California. Passionate about entrepreneurship and innovation, she has worked for three startups and for Cal Poly's Center for Entrepreneurship.  She is also an organizational communication major with a formal minor in psychology at California State University, Chico. 
+
 
 ## Gloria Kimbwala, MS
 
